@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Metamorphous';
+    src: url('Metamorphous.woff2') format('woff2'),
+        url('Metamorphous.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playwrite CO Guides';
+    src: url('PlaywriteCOGuides-Regular.woff2') format('woff2'),
+        url('PlaywriteCOGuides-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Playwrite ES Deco Guides';
+    src: url('PlaywriteESDecoGuides-Regular.woff2') format('woff2'),
+        url('PlaywriteESDecoGuides-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
